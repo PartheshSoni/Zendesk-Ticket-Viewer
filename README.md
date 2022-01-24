@@ -20,6 +20,7 @@ The software is created using modular and testable code, and unit tests covering
 
 ### Running the tests
 `python3 zendesk_ticket_viewer_test.py`
+
 `python3 display_utils_test.py`
 
 
